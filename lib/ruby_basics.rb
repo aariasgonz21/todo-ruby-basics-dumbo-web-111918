@@ -12,7 +12,7 @@ end
 def argue(phrase)
   phrase
 end
-binding.pry
+
 def greeting(greeting, name)
   
 end
