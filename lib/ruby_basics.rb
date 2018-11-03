@@ -9,8 +9,8 @@ def assign_variable(value)
   name = value
 end
 
-def argue(argument)
-  argument
+def argue(phrase)
+  phrase
 end
 binding.pry
 def greeting(greeting, name)
